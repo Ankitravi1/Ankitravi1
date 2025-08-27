@@ -1,42 +1,67 @@
 # 👋 Hi, I'm Ankit Ravi  
 
-🚀 Python Automation & AI Enthusiast | Ex-Quality Analyst | Transitioning into Development  
+🚀 **Python Automation & AI Enthusiast** | Ex-Quality Analyst | Transitioning into Development  
 
-🔹 Junior Python Developer with projects in **automation, AI integration, and workflow design**  
-🔹 Skilled in Python, n8n, Git, APIs, and cloud deployment  
-🔹 Actively learning React & MCP integration  
+I’m passionate about building **automation systems, AI-powered tools, and data-driven workflows**.  
+Currently focusing on **Python, AI APIs, n8n workflows, and React** while actively learning MCP integration.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, HTML/CSS, JavaScript (basics), SQL (basics)  
-- **Automation Tools**: n8n, Webhooks, Google Apps Script  
-- **AI/ML APIs**: AssemblyAI, OpenAI, Image Generation APIs  
-- **Frameworks & Tools**: Streamlit, Git/GitHub, Cloud Deployment  
+**Languages & Tools:**  
+🐍 Python · 🌐 HTML/CSS · ⚡ JavaScript (Basics) · 🗄️ SQL (Basics) · 📊 Pandas/Streamlit  
+⚙️ Git/GitHub · ☁️ Cloud Deployment (Render, Vercel) · 🔄 n8n Workflows · 🔌 REST APIs  
+
+**AI / Automation:**  
+🧠 OpenAI System Prompts · 📚 RAG (Retrieval-Augmented Generation) · 🎤 AssemblyAI · 🎨 Image Generation APIs  
 
 ---
 
 ## 📂 Featured Projects  
 
 ### 🎬 [VG-Auto](https://github.com/Ankitravi1/VG-Auto)  
-AI-powered video generation app (auto-captions, Ken Burns effect, music, Google Drive ingestion).  
-- Built with Python + AssemblyAI + Webhooks  
-- Deployed on cloud, supports API + UI  
+**AI-powered Video Generation App**  
+- Generate short-form videos (9:16 / 16:9) from images & audio  
+- Features: Auto-captions (AssemblyAI), Ken Burns effect, optional background music  
+- Google Drive ingestion, clean web UI, and `/generate` API  
+- 🚀 Deployed on cloud, triggered via **webhooks**  
+
+---
 
 ### 📑 [Image-to-PDF-Compressor](https://github.com/Ankitravi1/Image-to-PDF-Compressor)  
-Lightweight tool to convert and compress images into PDFs.  
-- Batch conversion, optimized storage  
-- Easy UI for non-technical users  
+**Lightweight Image-to-PDF Converter & Compressor**  
+- Convert multiple images into PDFs with compression  
+- Reduces file size while maintaining clarity  
+- Simple, user-friendly Python interface  
 
 ---
 
-## 📈 Current Learning  
-- React (Frontend integration)  
-- MCP Integration  
-- Building **Smart FAQs Chat Agent (RAG + system prompts)**  
+### 💬 Smart FAQs Chat Agent (System Prompt + RAG) *(In Progress)*  
+- Built **AI-powered FAQ chatbot** using **system prompts** and **retrieval-augmented generation (RAG)**  
+- Integrated knowledge base for contextual & accurate replies  
+- Tailored for **customer support automation** and **simple data queries**  
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/ankit-ravi-7b9682227/)   
-- [Twitter](https://x.com/ankitravione)  
+### 🔁 n8n Workflow Automations *(In Progress)*  
+- Designed workflows to connect APIs, Google Sheets, and email pipelines  
+- Automated repetitive data handling tasks  
+- Demonstrates **practical no-code + Python hybrid automation**  
+
+---
+
+## 📈 Current Focus  
+- Expanding my portfolio with **automation + AI-powered projects**  
+- Learning **React** for frontend integration  
+- Exploring **MCP integration** for advanced agent workflows  
+
+---
+
+## 🌍 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-ravi-7b9682227/)  
+- 🌐 Portfolio Website (coming soon update 🚀)  
+- 🐦 [Twitter](https://x.com/ankitravione)  
+- 🐙 [GitHub](https://github.com/Ankitravi1)  
+
+---
+✨ *Actively open to Junior Python Developer & Automation opportunities (Remote-friendly)* ✨
